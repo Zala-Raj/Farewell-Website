@@ -4,8 +4,8 @@ A small digital gift for our beloved teachers from the Science Batch 2024-25.
 
 This website was created to express our gratitude, respect, and appreciation for the teachers who guided us throughout our academic journey. It is a simple farewell surprise filled with heartfelt messages and memories.
 
-**Live Website:** https://science-old.netlify.app <br>
-**Updated Website:** https://science-2024-25.netlify.app
+**Live Preview of Source Code Provided:** https://science-old.netlify.app <br>
+**New Updated Website:** https://science-2024-25.netlify.app
 
 ## Features
 
