@@ -39,3 +39,18 @@ This project is available for learning and personal use. Please give credit if y
 **Made with ❤️ by Science Batch 2024-25.**
 
 *Thank you, dear teachers, for everything!*
+
+<br>
+
+---
+
+<!-- Don't forget to update the repository name in the link below after .../Zala-Raj/_REPO_NAME_.svg -->
+<p align="center">
+  <img src="https://hits.sh/github.com/Zala-Raj/Farewell-Website.svg?style=flat-square&label=Repository%20Views" alt="Repository Views"/>
+</p>
+
+<p align="center">
+  ⭐ If you find this repository useful, consider giving it a star!
+  <br>
+  Thanks for visiting! Your feedback and suggestions are always welcome. 💚
+</p>
